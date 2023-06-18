@@ -1,0 +1,48 @@
+table,th,td{
+    border: 1px dotted;
+    padding: 15px;
+}
+table{
+    border-collapse: collapse;
+}
+.d {
+    padding: 0;
+   
+   }
+   span{
+       font-weight: bold;
+   }
+   .h1 ,.p1 {
+    text-align: center;
+   }
+   .im{
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+    
+   }
+   .d1{
+    margin: auto;
+  width: 25%;
+  
+  padding: 10px
+   }
+   form {
+    width: 50%;
+    margin: 0 auto;
+  }
+  
+  label,
+  input :not(.n) {
+    
+    display: inline-block;
+    width: 20%
+    
+  }
+  input:not(.n){ 
+    float: center;
+  }
+.s,.z{
+
+    width: 10%;
+}
