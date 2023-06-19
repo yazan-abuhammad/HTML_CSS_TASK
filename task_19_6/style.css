@@ -70,10 +70,51 @@ width: 40%;
 .d6{
     position: relative;
     width: 80%;
-
+}
     .s7:hover:{
         border: 2px solid grey;
         font-size: 20px;
         opacity: 0.5;
         color: black;
+    }
+    .h2{
+        text-decoration: underline;
+    }
+    .p5{
+        color: blue;
+    }
+    .p5 a{
+        color: orange;
+    }
+    .p6 a{
+        color: orange;
+    }
+    .p7 span{
+        background-color: yellow;
+        text-decoration: underline;
+    }
+    .l1{
+        font-weight: bold;
+    }
+    .l1 a {
+        color: red;
+    }
+    .l2 li{
+        color: blue;
+    }
+    .l3{
+        list-style: none;
+    }
+    .l2 li a{
+        color: red;
+    }
+
+    .last{
+        color: red;
+    }
+    .last:hover{
+        border: 2px solid grey;
+        font-size: 20px;
+        opacity: 0.5;
+        color: rgb(23, 201, 85);
     }
