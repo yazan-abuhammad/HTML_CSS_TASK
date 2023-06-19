@@ -29,18 +29,18 @@ table{
    }
    form {
     width: 50%;
-    margin: 0 auto;
+    
   }
   
   label,
-  input :not(.n) {
+  input  {
     
     display: inline-block;
     width: 20%
     
   }
-  input:not(.n){ 
-    float: center;
+  input,label{ 
+    float: left;
   }
 .s,.z{
 
