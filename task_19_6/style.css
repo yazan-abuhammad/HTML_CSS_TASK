@@ -1,0 +1,79 @@
+
+
+.imag{
+    position: absolute;
+    width: 200px;
+    height: 350px;
+    top: 0;
+    right: 0;
+    border: 1px dotted black;
+    background-color: white;
+
+}
+
+.d1{
+    margin-bottom: 20px;
+    padding: 8px;
+    width: 40%;
+    
+    border: gray solid;
+
+}
+.d2{
+    padding: 8px;
+    margin-bottom:20px;
+
+width: 40%;
+    border-style: dashed ;
+}
+.d3{
+    padding: 8px;
+    margin-bottom: 20px;
+
+    width: 40%;
+    border: gray solid;
+}
+.i{
+    background-color: orange ;
+    font-weight: bold;
+}
+.quam{
+    background-color: yellow ;
+    font-weight: bold;
+
+}
+.p{
+    padding: 8px;
+    border: red dashed ;
+    
+}
+
+
+.body1{
+    background-color:red;
+}
+.p2{
+    width: 50%;
+    color: #af6d26;
+}
+.p3{
+    width: 50%;
+    
+}
+.p4{
+    width: 50%;
+    background-image:url(roma.webp)
+}
+.s2{
+    font-weight: bold;
+}
+.d6{
+    position: relative;
+    width: 80%;
+
+    .s7:hover:{
+        border: 2px solid grey;
+        font-size: 20px;
+        opacity: 0.5;
+        color: black;
+    }
